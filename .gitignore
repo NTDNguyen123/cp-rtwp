@@ -3,6 +3,9 @@ dist
 node_modules
 mtad.yaml
 
+#db
+db/.env
+
 # vue
 rtwp-admin/public/js/env.js
 rtwp-admin/vue.config.js
