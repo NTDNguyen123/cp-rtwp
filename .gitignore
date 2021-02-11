@@ -4,7 +4,7 @@ node_modules
 mtad.yaml
 
 #db
-db/.env
+db/*.env
 
 # vue
 rtwp-admin/public/js/env.js
